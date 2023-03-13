@@ -1,2 +1,3 @@
 # -*- coding: utf-8 -*- 
-print('My student_id: 学号')
+import os
+os.system('python function_学号.py')

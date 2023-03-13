@@ -1,3 +1,2 @@
 # -*- coding: utf-8 -*- 
-import os
-os.system('python function_21371102.py')
+print('My student_id: 21371102')
